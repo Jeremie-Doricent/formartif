@@ -1,0 +1,202 @@
+H:\_Cours 206 H18\R29 Formatif #3\R29 RéseauSocialPublications (Solution) v.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+H:\_Cours 206 H18\R29 Formatif #3\R29 RéseauSocialPublications (Solution) v.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+H:\_Cours 206 H18\R29 Formatif #3\R29 RéseauSocialPublications (Solution) v.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csprojResolveAssemblyReference.cache
+H:\_Cours 206 H18\R29 Formatif #3\R29 RéseauSocialPublications (Solution) v.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+H:\_Cours 206 H18\R29 Formatif #3\R29 RéseauSocialPublications (Solution) v.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+H:\_Cours 206 H18\R29 Formatif #3\R29 RéseauSocialPublications (Solution) v.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+H:\_Cours 206 H18\R29 Formatif #3\R29 RéseauSocialPublications (Solution) v.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+H:\_Cours 206 H18\R29 Formatif #3\R29 RéseauSocialPublications (Solution) v.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.Cache
+H:\_Cours 206 H18\R29 Formatif #3\R29 RéseauSocialPublications (Solution) v.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+H:\_Cours 206 H18\R29 Formatif #3\R29 RéseauSocialPublications (Solution) v.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+H:\_Cours 206 H19\R28 Formatif #3\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+H:\_Cours 206 H19\R28 Formatif #3\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+H:\_Cours 206 H19\R28 Formatif #3\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csprojAssemblyReference.cache
+H:\_Cours 206 H19\R28 Formatif #3\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+H:\_Cours 206 H19\R28 Formatif #3\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+H:\_Cours 206 H19\R28 Formatif #3\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+H:\_Cours 206 H19\R28 Formatif #3\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+H:\_Cours 206 H19\R28 Formatif #3\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+H:\_Cours 206 H19\R28 Formatif #3\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+H:\_Cours 206 H19\R28 Formatif #3\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+H:\_Cours 206 H19\R28 Formatif #3\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csprojAssemblyReference.cache
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R28 RéseauSocialPublications (Solution) H19.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csprojAssemblyReference.cache
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+C:\EspaceLabo\R25 Formatif #2 Partie #2\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csprojAssemblyReference.cache
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.1\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.1\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.1\AppReseauSocial\obj\Debug\AppReseauSocial.csprojAssemblyReference.cache
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.1\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.1\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.1\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.1\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.1\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.1\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.1\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+C:\EspaceLabo\R25 Formatif Final\_En onde\R25 RéseauSocialPublications (Solution) H20.1.1\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.exe.config
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.exe.config
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 C) RéseauSocialPublications (Solution) H21.1.0\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\bin\Debug\AppReseauSocial.exe.config
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\obj\Debug\AppReseauSocial.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Départ)\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe.config
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe.config
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+J:\H21 2N6 Les Capsules\R27 Formatif Final\_Code C#\R27 Formatif Final (Matériel) H21.1.1\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe.config
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+C:\Users\stephane.desmeules\Downloads\R28 Formatif Final (Matériel) H23.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe.config
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.AssemblyReference.cache
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+C:\Corretion\Reseau social\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe.config
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe.config
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.AssemblyReference.cache
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+C:\Users\jamil.gammoudi\Downloads\Exercice_RS\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe.config
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe.config
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.AssemblyReference.cache
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe.config
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\C) RéseauSocialPublications (Matériel)\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe.config
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.AssemblyReference.cache
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+C:\Corretion\Reseau social\Exercice_RS2\R28 Formatif Final (Matériel) H25.1.0\2P6_Formatif_ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.pdb
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe.config
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.exe
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\bin\Debug\AppReseauSocial.pdb
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.AssemblyReference.cache
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe.config
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesGroupes.resources
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmListeDesPublications.resources
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.FrmPrincipal.resources
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.Properties.Resources.resources
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.GenerateResource.cache
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.csproj.CoreCompileInputs.cache
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.exe
+C:\Users\6325048\Downloads\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\H26_2P6_Formatif3_Materiel\ReseauSocial\AppReseauSocial (Depart)\AppReseauSocial\obj\Debug\AppReseauSocial.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercice_interface", "exercice_interface\exercice_interface.csproj", "{5800E5DF-39FC-4F81-92FB-48B56EDAE498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercice_heritage", "exercice_heritage\exercice_heritage.csproj", "{BF9C9045-4CA3-4AFC-B218-4BA603A0F205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5800E5DF-39FC-4F81-92FB-48B56EDAE498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5800E5DF-39FC-4F81-92FB-48B56EDAE498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5800E5DF-39FC-4F81-92FB-48B56EDAE498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5800E5DF-39FC-4F81-92FB-48B56EDAE498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9C9045-4CA3-4AFC-B218-4BA603A0F205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9C9045-4CA3-4AFC-B218-4BA603A0F205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9C9045-4CA3-4AFC-B218-4BA603A0F205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9C9045-4CA3-4AFC-B218-4BA603A0F205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54CBC1D9-4F4A-4737-9E19-89FFB94E5F23}
+	EndGlobalSection
+EndGlobal

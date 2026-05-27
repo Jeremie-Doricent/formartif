@@ -1,0 +1,6 @@
+Cuisine|2010-01-12 22:25:30|Ali Astin,Ana de Armas,Anne Hathaway,Anya Taylor-Joy,Catherine Bell,Carrie-Anne Moss,Catherine Zeta-Jones,Brad Pitt
+Culture|2012-06-01 15:26:55|Anthony Hopkins,Christian Bale,Donald Sutherland,Ed Harris,Diane Keaton,Bette Midler,Isabelle Huppert,Bonnie Hunt,Harvey Keitel,Ana de Armas
+Hockey|2013-12-30 22:17:41|Adrien Brody,Christian Bale,Chloë Grace Moretz,Anne Hathaway,Leonardo DiCaprio,Daniel Radcliffe
+Musique|2006-01-01 06:40:58|Al Pacino,Edward Burns,Anne Hathaway,Christina Hendricks,Denzel Washington,Charlize Theron,Cate Blanchett,Alexandra Daddario
+Photographie|2011-04-26 21:54:12|Tom Hanks,Zooey Deschanel,Will Smith,Thandie Newton,Sally Field,Brad Pitt,Aaron Eckhart
+Politique|2013-06-30 12:10:06|Ali Astin,Adam Goldberg,Bette Midler,Audrey Fleurot,Brad Pitt
