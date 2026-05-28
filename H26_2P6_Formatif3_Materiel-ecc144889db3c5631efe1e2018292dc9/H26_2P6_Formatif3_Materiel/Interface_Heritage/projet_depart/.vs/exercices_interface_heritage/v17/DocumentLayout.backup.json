@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\6325048\\Downloads\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\",
+  "WorkspaceRootPath": "C:\\Users\\6325048\\Desktop\\formartif\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF9C9045-4CA3-4AFC-B218-4BA603A0F205}|exercice_heritage\\exercice_heritage.csproj|c:\\users\\6325048\\downloads\\h26_2p6_formatif3_materiel-ecc144889db3c5631efe1e2018292dc9\\h26_2p6_formatif3_materiel\\interface_heritage\\projet_depart\\exercice_heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9C9045-4CA3-4AFC-B218-4BA603A0F205}|exercice_heritage\\exercice_heritage.csproj|solutionrelative:exercice_heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5800E5DF-39FC-4F81-92FB-48B56EDAE498}|exercice_interface\\exercice_interface.csproj|c:\\users\\6325048\\desktop\\formartif\\h26_2p6_formatif3_materiel-ecc144889db3c5631efe1e2018292dc9\\h26_2p6_formatif3_materiel\\interface_heritage\\projet_depart\\exercice_interface\\sessionjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800E5DF-39FC-4F81-92FB-48B56EDAE498}|exercice_interface\\exercice_interface.csproj|solutionrelative:exercice_interface\\sessionjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5800E5DF-39FC-4F81-92FB-48B56EDAE498}|exercice_interface\\exercice_interface.csproj|c:\\users\\6325048\\downloads\\h26_2p6_formatif3_materiel-ecc144889db3c5631efe1e2018292dc9\\h26_2p6_formatif3_materiel\\interface_heritage\\projet_depart\\exercice_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5800E5DF-39FC-4F81-92FB-48B56EDAE498}|exercice_interface\\exercice_interface.csproj|c:\\users\\6325048\\desktop\\formartif\\h26_2p6_formatif3_materiel-ecc144889db3c5631efe1e2018292dc9\\h26_2p6_formatif3_materiel\\interface_heritage\\projet_depart\\exercice_interface\\commandelivraison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800E5DF-39FC-4F81-92FB-48B56EDAE498}|exercice_interface\\exercice_interface.csproj|solutionrelative:exercice_interface\\commandelivraison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800E5DF-39FC-4F81-92FB-48B56EDAE498}|exercice_interface\\exercice_interface.csproj|c:\\users\\6325048\\desktop\\formartif\\h26_2p6_formatif3_materiel-ecc144889db3c5631efe1e2018292dc9\\h26_2p6_formatif3_materiel\\interface_heritage\\projet_depart\\exercice_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5800E5DF-39FC-4F81-92FB-48B56EDAE498}|exercice_interface\\exercice_interface.csproj|solutionrelative:exercice_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800E5DF-39FC-4F81-92FB-48B56EDAE498}|exercice_interface\\exercice_interface.csproj|c:\\users\\6325048\\desktop\\formartif\\h26_2p6_formatif3_materiel-ecc144889db3c5631efe1e2018292dc9\\h26_2p6_formatif3_materiel\\interface_heritage\\projet_depart\\exercice_interface\\ifacturable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800E5DF-39FC-4F81-92FB-48B56EDAE498}|exercice_interface\\exercice_interface.csproj|solutionrelative:exercice_interface\\ifacturable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9C9045-4CA3-4AFC-B218-4BA603A0F205}|exercice_heritage\\exercice_heritage.csproj|c:\\users\\6325048\\desktop\\formartif\\h26_2p6_formatif3_materiel-ecc144889db3c5631efe1e2018292dc9\\h26_2p6_formatif3_materiel\\interface_heritage\\projet_depart\\exercice_heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9C9045-4CA3-4AFC-B218-4BA603A0F205}|exercice_heritage\\exercice_heritage.csproj|solutionrelative:exercice_heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_interface\\Program.cs",
-              "RelativeDocumentMoniker": "exercice_interface\\Program.cs",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_interface\\Program.cs",
-              "RelativeToolTip": "exercice_interface\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SessionJeu.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Desktop\\formartif\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_interface\\SessionJeu.cs",
+              "RelativeDocumentMoniker": "exercice_interface\\SessionJeu.cs",
+              "ToolTip": "C:\\Users\\6325048\\Desktop\\formartif\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_interface\\SessionJeu.cs",
+              "RelativeToolTip": "exercice_interface\\SessionJeu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T10:52:53.307Z"
+              "WhenOpened": "2026-05-28T16:54:55.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CommandeLivraison.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Desktop\\formartif\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_interface\\CommandeLivraison.cs",
+              "RelativeDocumentMoniker": "exercice_interface\\CommandeLivraison.cs",
+              "ToolTip": "C:\\Users\\6325048\\Desktop\\formartif\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_interface\\CommandeLivraison.cs",
+              "RelativeToolTip": "exercice_interface\\CommandeLivraison.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T16:49:20.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFacturable.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Desktop\\formartif\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_interface\\IFacturable.cs",
+              "RelativeDocumentMoniker": "exercice_interface\\IFacturable.cs",
+              "ToolTip": "C:\\Users\\6325048\\Desktop\\formartif\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_interface\\IFacturable.cs",
+              "RelativeToolTip": "exercice_interface\\IFacturable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T16:46:40.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\6325048\\Downloads\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_heritage\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Desktop\\formartif\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_interface\\Program.cs",
+              "RelativeDocumentMoniker": "exercice_interface\\Program.cs",
+              "ToolTip": "C:\\Users\\6325048\\Desktop\\formartif\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_interface\\Program.cs",
+              "RelativeToolTip": "exercice_interface\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:52:53.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\6325048\\Desktop\\formartif\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_heritage\\Program.cs",
               "RelativeDocumentMoniker": "exercice_heritage\\Program.cs",
-              "ToolTip": "C:\\Users\\6325048\\Downloads\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_heritage\\Program.cs",
+              "ToolTip": "C:\\Users\\6325048\\Desktop\\formartif\\H26_2P6_Formatif3_Materiel-ecc144889db3c5631efe1e2018292dc9\\H26_2P6_Formatif3_Materiel\\Interface_Heritage\\projet_depart\\exercice_heritage\\Program.cs",
               "RelativeToolTip": "exercice_heritage\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T10:52:49.459Z",
               "EditorCaption": ""
