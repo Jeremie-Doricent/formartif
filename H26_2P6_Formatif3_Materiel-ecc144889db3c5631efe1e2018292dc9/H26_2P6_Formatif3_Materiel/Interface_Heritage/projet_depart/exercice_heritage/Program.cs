@@ -17,8 +17,17 @@ namespace exercice_heritage
             //   - Guerrier  nom:"Aragorn",  pv:90,  force:8
             //   - Mage      nom:"Saroumane",     pv:85,   potions:15
 
-            // List<Personnage> equipe = new List<Personnage>();
+            List<Personnage> equipe = new List<Personnage>();
 
+            Personnage personnage = new Guerrier("Gimli",75,10);
+            Personnage personnage1 = new Mage("Gandalf", 100,0);
+            Personnage personnage2 = new Guerrier("Aragorn", 90, 0);
+            Personnage personnage3 = new Mage("Saroumane", 85, 15);
+
+            equipe.Add(personnage);
+            equipe.Add(personnage1);
+            equipe.Add(personnage2);
+            equipe.Add(personnage3);
 
 
 
@@ -27,18 +36,18 @@ namespace exercice_heritage
 
             // TODO 3b : Décommentez le code suivant pour vérifier le comportement de votre programme.
 
-            //foreach (Personnage p in equipe)
-            //    Console.WriteLine(p.Etat());
+            foreach (Personnage p in equipe)
+                Console.WriteLine(p.Etat());
 
-            //Personnage champion = equipe[0];
-            //foreach (Personnage p in equipe)
-            //{
-            //    if (p.Attaquer() > champion.Attaquer())
-            //        champion = p;
-            //}
+            Personnage champion = equipe[0];
+            foreach (Personnage p in equipe)
+            {
+                if (p.atatquer() > champion.atatquer())
+                    champion = p;
+            }
 
-            //Console.WriteLine("─────────────────────────────────");
-            //Console.WriteLine($"Champion : {champion.Nom} avec {champion.Attaquer()} dégâts!");
+            Console.WriteLine("─────────────────────────────────");
+            Console.WriteLine($"Champion : {champion.Nom} avec {champion.atatquer()} dégâts!");
 
 
             // Résultat attendu :
@@ -62,7 +71,17 @@ namespace exercice_heritage
             //
             //          "[Nom] a une force de [Force]" si p est un Guerrier
             //          "[Nom] a [NbPotions] potions" si p est un Mage
-
+            
+            foreach(Personnage p in equipe)
+            {
+                if(p is Guerrier g)
+                {
+                    if (p is Guerrier )
+                        Console.WriteLine($"{g.Nom} a une force de {g.force}");
+                    else if (p is Mage m)
+                        Console.WriteLine($"{m.Nom} a {m.NbPotion} potions");
+                }
+            }
             //  Résultat attendu :
 
             //      Gimli a une force de 10

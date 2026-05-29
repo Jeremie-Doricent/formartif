@@ -6,24 +6,24 @@ using System.Threading.Tasks;
 
 namespace exercice_heritage
 {
-  public class Personnage
+  public abstract class Personnage
     {
 
-        private string m_nom;
-        private int m_pointDeVie;
+        protected string m_nom;
+        protected int m_pointDeVie;
 
         public string Nom { get { return m_nom; } set { m_nom = value; } }
         public int PointDeVie { get { return m_pointDeVie; } set { m_pointDeVie = value; } }
 
-        public int atatquer() {
+        public abstract int atatquer();
         
         
-        }
-        public string Etat()
+        
+        public virtual string Etat()
         {
             return$"{Nom},{PointDeVie}";
         }
-     public   Personnage(string nom, int pointdevie) { 
+        public   Personnage(string nom, int pointdevie) { 
         Nom = nom ;
             PointDeVie = pointdevie ;
         
